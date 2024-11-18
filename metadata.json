@@ -1,56 +1,14 @@
 {
-    "chainId": 101,
-    "address": "DtPokbk3BRTDmWpbCst1nhK3BjDfi9yazpgbiJWdB8HZ",
-    "symbol": "AIPE",
-    "name": "AIpeCoin",
-    "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/elaraisonluxe/elraisonluxe.github.io/main/03bd10c1-7e0d-4398-b6e1-4ab867e9e3e1.png",
-    "tags": [
-        "meme",
-        "AI",
-        "cryptocurrency",
-        "fun",
-        "community",
-        "decentralized",
-        "blockchain",
-        "solana",
-        "web3",
-        "future"
-    ],
-    "extensions": {
-        "description": "AIpeCoin is the ultimate meme coin on Solana, blending the fun of meme culture with the revolutionary potential of AI technology. Designed for community engagement, airdrops, and decentralized trading, AIpeCoin aims to lead the next wave of blockchain-based innovation.",
-        "totalSupply": "1000000000",
-        "creator": "L",
-        "launchDate": "2024-11-18",
-        "useCases": [
-            "Community engagement and airdrops",
-            "DeFi and liquidity pools",
-            "AI-driven NFT collaborations"
-        ],
-        "roadmap": [
-            "Phase 1: Launch token and initial community building",
-            "Phase 2: Establish liquidity pools on Raydium and Serum",
-            "Phase 3: Partner with AI projects for meme-driven AI dApps",
-            "Phase 4: Expand adoption through gamified experiences"
-        ],
-        "tokenomics": {
-            "initialSupply": 1000000000,
-            "allocation": {
-                "community": 40,
-                "liquidity": 30,
-                "development": 20,
-                "marketing": 10
-            },
-            "burnMechanism": "2% of every transaction fee is burned to reduce supply over time."
-        },
-        "audited": false,
-        "seller_fee_basis_points": 0,
-        "creators": [
-            {
-                "address": "GY8SKoCqgieVoPNWQRF7gBfTaVg1iCSWjcmrSjZg6YLW",
-                "verified": true,
-                "share": 100
-            }
-        ]
-    }
-}
+    "name": "MechaPurr Coin",
+    "symbol": "MCPURR",
+    "uri": "https://raw.githubusercontent.com/elaraisonluxe/elraisonluxe.github.io/main/71c26f58-d9d8-4991-a2e5-cf19a23a66e1.png",
+    "seller_fee_basis_points": 0,
+    "creators": [
+      {
+        "address": "GY8SKoCqgieVoPNWQRF7gBfTaVg1iCSWjcmrSjZg6YLW",
+        "verified": true,
+        "share": 100
+      }
+    ]
+  }
+  
